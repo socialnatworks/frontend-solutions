@@ -1,6 +1,6 @@
 /*
  * Leave Report
- * Write an expression that calculate the average leave day of employees in this year
+ * Write an expression that calculates the average number of leave days taken by the employees in this year. Replace your_answer with your expression.
  */
 
 var annualLeave = 30
