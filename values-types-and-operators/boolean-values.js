@@ -7,10 +7,10 @@
  */
 
 exports.rank = function rank (grade) {  // only change the your_answer code
-  if grade < 60 {
+  if (grade < 60) {
     return 'Average'
     // only change the your_answer code
-  } else if grade >= 60 && grade < 90 {
+  } else if (grade >= 60 && grade < 90) {
     return 'Good'
   } else {
     return 'Excellent'
